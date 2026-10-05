@@ -47409,22 +47409,4 @@ core.*
 chroma_db/
 .chromadb/
 
-# NetworkX graphs
-*.graphml
-*.gexf
-
-# Gemini cache
-.gemini_cache/
-gemini_cache/
-
-# File uploads
-uploads/*
-!uploads/.gitkeep
-
-# Generated graphs
-graphs/
-*.png.tmp
-
-# ------------------------------------------------------------
-# END OF FILE
-# ------------------------------------------------------------
+# Netwo-----------------------------------------
