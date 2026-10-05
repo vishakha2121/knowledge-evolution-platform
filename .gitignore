@@ -30503,32 +30503,3 @@ data/interim/
 *.tgz
 *.tar.gz
 *.zip
-*.rar
-
-# Crash dumps
-core
-core.*
-*.dmp
-*.stackdump
-
-# Local history
-.history/
-*.local
-
-# Backup files
-*.backup
-*.backup.*
-*.old
-
-# ------------------------------------------------------------
-# 🌍 ENVIRONMENT SPECIFIC
-# ------------------------------------------------------------
-# Production
-.env.production
-.env.prod
-*.prod.env
-
-# Development
-.env.development
-.env.dev
-*.dev.env
